@@ -1,0 +1,23 @@
+{
+  "name": "novi-frontend-javascript-tdd-testing-with-jest",
+  "version": "1.0.0",
+  "description": "TDD Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test:watch": "npx jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerardheuvelman/novi-frontend-javascript-TDD-testing-with-jest.git"
+  },
+  "author": "Gerard Heuvelman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerardheuvelman/novi-frontend-javascript-TDD-testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/gerardheuvelman/novi-frontend-javascript-TDD-testing-with-jest#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
